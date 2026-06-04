@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://committers.top/egypt">
-    <img src="https://img.shields.io/badge/Top Frontend Developer 🇪🇬-0d1117?style=flat-square&logo=github&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
   <a href="https://github.com/3laa-812">
     <img src="https://img.shields.io/badge/Open to Work 💼-0d1117?style=flat-square&logo=github&logoColor=58a6ff" style="height:32px; object-fit:contain;"/>
   </a>
@@ -17,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_CV_LINK/view">
+  <a href="https://drive.google.com/file/d/1csLu8RMzlJpY1zBrN-mOeg5EdvWaGuPM/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My CV-161b22?style=flat&logo=googledrive&logoColor=58a6ff" style="height:35px; object-fit:contain;"/>
   </a> &nbsp;
   <a href="https://linkedin.com/in/3laa-ragab">
@@ -106,11 +103,6 @@
 | **ControlX CRM** | Enterprise CRM dashboard with role-based auth & Kanban | React, GraphQL, Ant Design |
 | **Podcastr** | AI-powered podcast SaaS with TTS & AI thumbnail generation | Next.js, Convex, Clerk |
 
----
-
-![Snake Animation](https://raw.githubusercontent.com/3laa-812/3laa-812/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
